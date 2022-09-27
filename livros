@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "nome": "Data Science do Zero",
+      "foto": "https://jpg-dev.github.io/livraria/datascience.jpg",
+      "preco": 28.5,
+      "descricao": "Noções fundamentais com Python"
+    },
+    {
+      "id": 2,
+      "nome": "Introdução a Linguagem GO",
+      "foto": "https://jpg-dev.github.io/livraria/introducaogo.jpg",
+      "preco": 24.5,
+      "descricao": "Crie programas escaláveis com GO"
+    },
+    {
+      "id": 3,
+      "nome": "Pense em Python",
+      "foto": "https://jpg-dev.github.io/livraria/pensepython.jpg",
+      "preco": 20.5,
+      "descricao": "Pense como um cientista da computação"
+    }
+  ]
